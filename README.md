@@ -12,4 +12,4 @@
  - I’m currently learning Python and Java;
  - I love learning new things;
  - i'm not currently working in the area of my dreams;
- - How to reach me karianecoura@outlook.com
+ - How to reach me: karianecoura@outlook.com
