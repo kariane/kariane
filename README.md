@@ -7,7 +7,7 @@
  ### About me:
  -  I’m a 17 years old Brazilian woman;
  - I live in São Paulo;
- - I course Information Systems-2nd Semester;
+ - Course Information Systems-2nd Semester;
  - I find myself passionate about programming;
  - I’m currently learning Python and Java;
  - I love learning new things;
