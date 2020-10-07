@@ -1,4 +1,7 @@
 # Hello, I'm Kariane Coura
+<p>
+    <img width="200px" src="https://media.tenor.com/images/acc4116372dcc4b342cb1a00ae657151/tenor.gif" />
+</p>
 
 ### A future developer interested in back-end👩🏻‍💻
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-44475a?style=flat&labelColor=44475a&logo=twitter&logoColor=white&link=https://twitter.com/Karianecoura)](https://twitter.com/Karianecoura)
