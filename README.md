@@ -3,7 +3,7 @@
     <img width="200px" src="https://media.tenor.com/images/acc4116372dcc4b342cb1a00ae657151/tenor.gif" />
 </p>
 
-### A future developer interested in back-end👩🏻‍💻
+### A future developer back-end👩🏻‍💻
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-44475a?style=flat&labelColor=44475a&logo=instagram&logoColor=white&link=https://www.instagram.com/kccunh4/)](https://www.instagram.com/kccunh4/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-44475a?style=flat&labelColor=44475a&logo=twitter&logoColor=white&link=https://twitter.com/Karianecoura)](https://twitter.com/Karianecoura)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-44475a?style=flat&labelColor=44475a&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karicoura/)](https://www.linkedin.com/in/karicoura/)
