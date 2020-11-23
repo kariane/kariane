@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-44475a?style=flat&labelColor=44475a&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karicoura/)](https://www.linkedin.com/in/karicoura/)
  
  ### About me:
- -  I’m a 17 years old Brazilian woman;
+ -  I’m a 18 years old Brazilian woman;
  - I live in São Paulo;
  - Studying Information Systems-2nd Semester;
  - I find myself passionate about programming;
