@@ -5,7 +5,7 @@
 
 ### A future developer back-end👩🏻‍💻
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-44475a?style=flat&labelColor=44475a&logo=instagram&logoColor=white&link=https://www.instagram.com/kccunh4/)](https://www.instagram.com/kccunh4/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-44475a?style=flat&labelColor=44475a&logo=twitter&logoColor=white&link=https://twitter.com/Karianecoura)](https://twitter.com/Karianecoura)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-44475a?style=flat&labelColor=44475a&logo=twitter&logoColor=white&link=https://twitter.com/Kccunh4)](https://twitter.com/Kccunh4)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-44475a?style=flat&labelColor=44475a&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karicoura/)](https://www.linkedin.com/in/karicoura/)
  
  ### About me:
