@@ -8,6 +8,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
  ### About me:
  ---
+ [![Instagram Badge](https://img.shields.io/badge/-Instagram-44475a?style=flat&labelColor=44475a&logo=instagram&logoColor=white&link=https://www.instagram.com/kccunh4/)](https://www.instagram.com/kccunh4/)
+ <a href="mailto:karianecoura@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-44475a?style=flat&labelColor=44475a&logo=email&logoColor=white&link=" alt="Email" /> </a>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-44475a?style=flat&labelColor=44475a&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karicoura/)](https://www.linkedin.com/in/karicoura/)
+
  -  I’m a 18 years old Brazilian woman;
  - I live in São Paulo;
  - Studying Information Systems-2nd Semester;
@@ -21,6 +25,3 @@
 <img width="290" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariane&layout=compact&langs_count=8&theme=midnight-purple&show_icons=true" />
 </p>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-44475a?style=flat&labelColor=44475a&logo=instagram&logoColor=white&link=https://www.instagram.com/kccunh4/)](https://www.instagram.com/kccunh4/)
- <a href="mailto:karianecoura@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-44475a?style=flat&labelColor=44475a&logo=email&logoColor=white&link=" alt="Email" /> </a>
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-44475a?style=flat&labelColor=44475a&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karicoura/)](https://www.linkedin.com/in/karicoura/)
