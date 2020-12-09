@@ -16,3 +16,7 @@
  - I love learning new things;
  - i'm not currently working in the area of my dreams;
  - How to reach me: karianecoura@outlook.com
+<p align="center">
+<img width="400" alt="Kariane's github stats" src="https://github-readme-stats.vercel.app/api?username=kariane&count_private=true&theme=midnight-purple&show_icons=true" />
+<img width="290" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariane&layout=compact&langs_count=8&theme=midnight-purple&show_icons=true" />
+</p>
