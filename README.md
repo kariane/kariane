@@ -1,7 +1,7 @@
 # Hello, I'm Kariane Coura
 
 
-### A future developer back-end👩🏻‍💻
+### A future developer back-end and DBA👩🏻‍💻
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-44475a?style=flat&labelColor=44475a&logo=instagram&logoColor=white&link=https://www.instagram.com/kccunh4/)](https://www.instagram.com/kccunh4/)
  <a href="mailto:karianecoura@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-44475a?style=flat&labelColor=44475a&logo=email&logoColor=white&link=" alt="Email" /> </a>
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-44475a?style=flat&labelColor=44475a&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karicoura/)](https://www.linkedin.com/in/karicoura/)
