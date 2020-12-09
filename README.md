@@ -1,17 +1,15 @@
 # Hello, I'm Kariane Coura
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
-
 ### A future developer back-end and DBA👩🏻‍💻
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-44475a?style=flat&labelColor=44475a&logo=instagram&logoColor=white&link=https://www.instagram.com/kccunh4/)](https://www.instagram.com/kccunh4/)
  <a href="mailto:karianecoura@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-44475a?style=flat&labelColor=44475a&logo=email&logoColor=white&link=" alt="Email" /> </a>
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-44475a?style=flat&labelColor=44475a&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karicoura/)](https://www.linkedin.com/in/karicoura/)
 
- 
+ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
  ### About me:
  ---
  -  I’m a 18 years old Brazilian woman;
