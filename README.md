@@ -4,10 +4,11 @@
 
 ### A future developer back-end and DBA👩🏻‍💻
 
+<code><img height="20" src="https://img.shields.io/badge/MySQL-0077B5?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/SQL-D14836?style=for-the-badge&logo=sql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Java-E4405F?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/SQL-D14836?style=for-the-badge&logo=sql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/MySQL-330F63?style=for-the-badge&logo=mysql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-2CA5E0?style=for-the-badge&logo=python&logoColor=white"></code>
 
  ### About me:
  ---
