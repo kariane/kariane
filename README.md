@@ -1,5 +1,5 @@
  ## Hello, I'm Kariane Coura
- <p align="right> <img width="100px" src="https://media.tenor.com/images/e485d330940e396050e603da70bbbd48/tenor.gif" /></p>
+ <p align="left"> <img width="100px" src="https://media.tenor.com/images/e485d330940e396050e603da70bbbd48/tenor.gif" /></p>
  
 
 ### A future developer back-end and DBA👩🏻‍💻
