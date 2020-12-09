@@ -4,15 +4,18 @@
 
 ### A future developer back-end and DBA👩🏻‍💻
 
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/Java-E4405F?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/SQL-D14836?style=for-the-badge&logo=sql&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/MySQL-330F63?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+
  ### About me:
  ---
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karicoura/)](https://www.linkedin.com/in/karicoura/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kccunh4/)](https://www.instagram.com/kccunh4/)
  <a href="mailto:karianecoura@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=" alt="Email" /> </a>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karicoura/)](https://www.linkedin.com/in/karicoura/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/kccunh4)](https://t.me/kccunh4)
+
 
  -  I’m a 18 years old Brazilian woman;
  - I live in São Paulo;
