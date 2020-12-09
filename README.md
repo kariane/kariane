@@ -1,8 +1,7 @@
  ## Hello, I'm Kariane Coura
+ ### A future developer back-end and DBA👩🏻‍💻
  <p align="left"> <img width="100px" src="https://media.tenor.com/images/e485d330940e396050e603da70bbbd48/tenor.gif" /></p>
  
-
-### A future developer back-end and DBA👩🏻‍💻
 
 <code><img height="20" src="https://img.shields.io/badge/MySQL-0077B5?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Java-E4405F?style=for-the-badge&logo=java&logoColor=white"></code>
