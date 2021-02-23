@@ -18,7 +18,7 @@
 
  -  I’m a 18 years old Brazilian woman;
  - I live in São Paulo;
- - Studying Information Systems-2nd Semester;
+ - Studying Information Systems-3nd Semester;
  - I find myself passionate about programming;
  - I’m currently learning Python and Java;
  - I love learning new things;
