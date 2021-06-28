@@ -22,7 +22,6 @@
  - I find myself passionate about programming;
  - I’m currently learning Python and Java;
  - I love learning new things;
- - i'm not currently working in the area of my dreams;
  
 <p align="center">
 <img width="400" alt="Kariane's github stats" src="https://github-readme-stats.vercel.app/api?username=kariane&count_private=true&theme=midnight-purple&show_icons=true" />
