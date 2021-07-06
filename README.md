@@ -1,30 +1,22 @@
  ## Hello, I'm Kariane Coura
- <p align="left"> <img width="100px" src="https://media.tenor.com/images/e485d330940e396050e603da70bbbd48/tenor.gif" /></p>
+ <div>
+  <a href="https://github.com/kariane">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kariane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariane&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="kari-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="kari-rb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+ <img align="center" alt="kari-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+</div>
+  
+  ##
  
-
-
-<code><img height="20" src="https://img.shields.io/badge/MySQL-0077B5?style=for-the-badge&logo=mysql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Java-E4405F?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/SQL-D14836?style=for-the-badge&logo=sql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-2CA5E0?style=for-the-badge&logo=python&logoColor=white"></code>
-
- ### About me:
- ---
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karicoura/)](https://www.linkedin.com/in/karicoura/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kccunh4/)](https://www.instagram.com/kccunh4/)
- <a href="mailto:karianecoura@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=" alt="Email" /> </a>
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/kccunh4)](https://t.me/kccunh4)
-
-
- -  I’m a 18 years old Brazilian woman;
- - I live in São Paulo;
- - Studying Information Systems-3nd Semester;
- - I find myself passionate about programming;
- - I’m currently learning Python and Java;
- - I love learning new things;
+<div> 
  
-<p align="center">
-<img width="400" alt="Kariane's github stats" src="https://github-readme-stats.vercel.app/api?username=kariane&count_private=true&theme=midnight-purple&show_icons=true" />
-<img width="337" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariane&layout=compact&langs_count=8&theme=midnight-purple&show_icons=true" />
-</p>
+  <a href="https://www.instagram.com/kccunh4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:karianecoura@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/karicoura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
